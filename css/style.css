@@ -1,0 +1,39 @@
+.contenido{
+    background-color: #eff3f4;
+}
+
+body{
+ background-color: #eff3f4;
+}
+
+h2{
+    font-family: "poppins", sans-serif;
+    color: black;
+    text-align: center;
+    padding: 50px 50px 50px 50px;
+}
+
+h2:hover{
+    color: #9bce21;
+
+}
+
+destacado:hover{
+    color: #9bce21;
+    font-family: "poppins", sans-serif;
+}
+
+img{
+    max-height: 400px;
+    width: 1200px;
+    margin: 0;
+    object-fit: cover;
+    padding-block-end: 50px;
+}
+
+p{
+    font-family: "poppins", sans-serif;
+    color: black;
+    text-align: center;
+    background-color:#eff3f4;
+}
